@@ -2,7 +2,7 @@
 
 playSoundの管理のための 簡易的な ScriptAPI ライブラリです
 
-[ダウンロード](https://github.com/haya-to8810/Scoreboarder/releases/download/minecraft/scoreBoarder.js)
+[ダウンロード](https://github.com/haya-to8810/SoundPlayer/releases/download/minecraft/soundPlayer.js)
 
 > [!NOTE]
 > 質問やエラーは以下のDiscordアカウントへ
