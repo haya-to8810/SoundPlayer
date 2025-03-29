@@ -13,9 +13,11 @@ Minecraft Bedrock の ScriptAPI で playSound の管理をより、
 
 ### `playDimension(dimension,location)`
 - **dimension**　`"overworld" | "nether" | "end"`
-- **location**　`Vector3`
+- **location**　`Vector3: { x: number, y: number, z: number }`
+
 特定のディメンションの座標に音声を再生します
 
 ### `play(player)`
 - **player**　`Player`
+
 特定のプレイヤーに対し座標を再生します
